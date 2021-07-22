@@ -1,0 +1,29 @@
+body
+	{
+		background-color: lightseagreen;
+	}
+
+a:link, a:visited
+	{
+		color: darkred;
+		background-color: yellow;
+		text-decoration: none;
+		padding: 12px;
+		text-align: center;
+		display: inline-block;
+		font-family: verdana;
+	}
+
+a:hover
+	{
+		color: yellow;
+		background-color: darkred;
+		text-decoration: underline;
+	}
+
+a:active
+	{
+		color: green;
+		background-color: yellow;
+		text-decoration: underline;
+	}
